@@ -2,15 +2,15 @@
 Goldman Sachs Virtual  program 
 
 
-                       MEMORUNDUM
+                    <h1> MEMORUNDUM</h1>
 
 DATE : September 29 2021         SUBJECT : Crack leaked password database
 
 FROM : Ansong Evans                TO : Goldman Sachs	 
 
-QUESTIONS
+<h3>QUESTIONS</h3>
 
-What type of hashing algorithm was used to protect passwords ?
+<b>What type of hashing algorithm was used to protect passwords ?<b/>
 - SHA512crypt  function that was included by default in Mac OS X and examples of other similarly "slow" hashing algorithms include bcrypt, scrypt, PBKDF2
 What level of protection does the mechanism offer for passwords?
 - it offers a secure way to store user’s passwords and prevent data from being compromised by  third parties who may gain access to the database. 
